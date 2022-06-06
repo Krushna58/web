@@ -1,0 +1,44 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+h1,h2,h3{
+  color:rgba(82,82,82,1);
+}
+.container{
+  margin-top:120px;
+  margin-bottom:64px;
+}
+.header-container img{
+  opacity:0.6;
+}
+.preview-card{
+  margin-top:12px;
+  margin-right:32px;
+  margin-bottom:32px;
+}
+.usage-container{
+  margin-top:32px;
+  padding:32px 0;
+}
+.preview-card span{
+  font-size:1.2em;
+}
+#animation-404{
+  padding:32px;
+ background-color:rgba(55,55,55,1);
+}
+#no-result{
+  height:150px;
+ background-color:rgba(155,155,255,1);
+}
+#alarm-rj{
+  height:150px;
+  background-color:#252744;
+}
+.script-container{
+  padding:32px 0;
+}
+a{
+  text-align:center;
+}
